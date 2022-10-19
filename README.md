@@ -84,4 +84,5 @@ python3 basic_melb_model.py
   <li>Divide the code into pieces for different functionalities    
   <li>Improve the dataset
   <li>Apply the ML model into the dataset that I generated in the <a href="https://github.com/ebrarkiziloglu/University-Database-mySQL">University_Database</a> repository.
+  <li>Apply the methods from <a href="https://www.geeksforgeeks.org/python-decision-tree-regression-using-sklearn/">this article</a> to make the data more visual.
 </ul>
