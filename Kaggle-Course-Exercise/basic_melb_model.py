@@ -3,7 +3,7 @@ from sklearn.tree import DecisionTreeRegressor
 from sklearn.metrics import mean_absolute_error
 from sklearn.model_selection import train_test_split
 
-melbourne_file_path = '/Users/gk/Desktop/コード/kaggle-ML/melb_data.csv'
+melbourne_file_path = "melb_data.csv"
 melbourne_data = pd.read_csv(melbourne_file_path)
 
 
