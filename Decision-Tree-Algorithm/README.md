@@ -47,4 +47,7 @@ Then, I took the best (aka highest accuracy) model out of the 5 I trained.
 ## Report
 The [report](https://github.com/ebrarkiziloglu/My-AI-Projects/blob/decision-tree/Decision-Tree-Algorithm/Cmpe480_Assignment4_report.pdf) elaborates on the dataset used and then explains the usage of 5-fold cross-validation. 
 It also includes the error plots for training, validation, and test datasets, the best final decision tree, and the [source code](https://github.com/ebrarkiziloglu/My-AI-Projects/blob/decision-tree/Decision-Tree-Algorithm/Cmpe_480_Decision_Tree_Learning.ipynb).
+
+## Best / Final Decision Tree
+![tree](https://github.com/ebrarkiziloglu/My-AI-Projects/blob/main/Decision-Tree-Algorithm/decision-tree.jpg)
  
